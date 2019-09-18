@@ -1,0 +1,11 @@
+{
+  "name": "babel_for_node",
+  "version": "1.0.0",
+  "main": "start.js",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "babel-preset-node8": "^1.2.0",
+    "babel-register": "^6.26.0"
+  }
+}
