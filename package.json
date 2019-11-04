@@ -4,6 +4,9 @@
   "main": "start.js",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "start": "node -r esm test.js"
+  },
   "devDependencies": {},
   "dependencies": {
     "esm": "^3.2.25"

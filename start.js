@@ -1,2 +1,2 @@
-require('babel-register');
-module.exports = require('./test.js');
+require = require("esm")(module);
+module.exports = require("./test.js");
