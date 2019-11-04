@@ -1,1 +1,1 @@
-## ES6 modules by `babel-register`
+## ES6 modules by `esm` package
